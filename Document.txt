@@ -1,0 +1,235 @@
+{ 
+         "name": "สารคดีความรู้",
+         "image": "https://i.postimg.cc/tJd06mWN/documentary.png",
+         "stations": [ 
+{
+"name": " ANIMAL PLANET",
+"image": "https://dl.dropbox.com/s/d55ewtydhd2sabh/animalplanet.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/animal-planet",
+"referer": "https://dookeela.live/live-tv/animal-planet",
+        "info":"100%",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "online": "true"
+},
+{
+"name": " ANIMAL PLANET",
+"image": "https://dl.dropbox.com/s/d55ewtydhd2sabh/animalplanet.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://wacthstream.com/stream_live/567_Animal_Planet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDM6MzU6MjIgUE0maGFzaF92YWx1ZT1tTHNyamQyNW1BdFhESjhjbHljUGxRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzI3ODA=|Referer=https://wacth.tv",
+"online": "true",
+"info": "update",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": "DISCOVERY ASIAN",
+"image": "https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://wacthstream.com/stream_live/555_Discovery_Asia/playlist.m3u8",
+"referer": "",
+        "info":"100%",
+        "online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name": "DISCOVERY ASIAN",
+"image": "https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/discovery-asia",
+"referer": "https://dookeela.live/live-tv/discovery-asia",
+        "info":"100%",
+        "online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+
+{
+"name": "LOVE4NATURE",
+"image": "https://cms.dmpcdn.com/livetv/2021/10/01/c028a650-226a-11ec-8746-bdb6cf7b14ca_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://wacthstream.com/stream_live/563_Love_Nature/playlist.m3u8",
+"referer": "",
+        "info":"100%",
+        "online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+
+{
+"name": "DISCOVERY",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png",
+"imageScale": "fitStart",
+"url": "https://wacthstream.com/stream_live/562_Discovery/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=",
+"online": "true",
+"referer": "https://wacth.tv/",
+        "info":"100%",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{
+"name": "DISCOVERY",
+"image": "https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_320.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/discovery",
+"online": "true",
+"referer": "https://dookeela.live/live-tv/discovery",
+        "info":"100%",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{
+"name": "samrujlok",
+"image": "https://dookeela.live/uploads/1705536821.png",
+"imageScale": "fitStart",
+"url": "https://dookeela.live/live-tv/samrujlok",
+"online": "true",
+"referer": "https://dookeela.live/live-tv/samrujlok/",
+        "info":"100%",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"},
+{
+"name": "TLC",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/26/e3c376d0-fb8a-11ed-82d8-75b5e95c0f8a_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/sd-tlc.stream/chunks.m3u8",
+"referer": "https://streaming.livescorethai.net/",
+        "info":"60%",
+        "online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name": "TLC",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/26/e3c376d0-fb8a-11ed-82d8-75b5e95c0f8a_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://wacthstream.com/stream_live/566_TLC/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk=",
+"referer": "https://wacth.tv/",
+        "info":"100%",
+        "online": "true",     
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name": "Samrujlok",
+"image": "https://dl.dropbox.com/s/zpf1x9blccdl6m7/samrujlok.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8",
+        "info":"100%",
+        "online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": "Crime",
+"image": "https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_320.webp",
+"referer": "https://wacth.tv",
+"url": "https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MDg6MDUgQU0maGFzaF92YWx1ZT04MU9EckV2QUFFRmlITi82ZlUza0RnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTY2MDc=",
+        "info":"100%",
+        "online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name": "True Explorer LIFE",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp",
+"imageScale": "fitStart",
+"url": "http://playtv.my.id/play/life.m3u8",
+"referer": "http://playtv.my.id/",
+        "info":"",
+"embed": "", "online": ""
+},
+{
+"name": "TRUE-EXPLORER-LIFE",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/486c7da0-e599-11ed-b481-1b121c78e74e_webp_320.webp",
+"embed": "",
+"url": "http://45.139.122.199/play/live.php?mac=00:1A:79:00:5D:C8&stream=115659&extension=ts&play_token=",
+"referer": "",
+        "info":"0%",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33","online": ""
+},
+
+{
+"name": "truesci",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi81LzIwMjQgMTA6MTA6MDYgQU0maGFzaF92YWx1ZT0vbEZHT1I1MEtaOEcvSjJsQWVMYnpBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODM4NzI=
+",
+"online": "true",
+"referer": "https://wacth.tv",
+        "info":"100%",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "embed": ""
+},
+{
+"name": "True Outdoor HD",
+"image": "https://images.livebox.co/images/tv/png/hd-outdoor.png",
+"imageScale": "fitStart",
+"url": "https://wacthstream.com/stream_live/673_OUTDOOR/playlist.m3u8",
+"isHost": "",
+"referer": "",
+        "info":"100%",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "online": "true"
+},
+{
+"name": "BBC CEARTH",
+"image": "https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net",
+        "info":"100%",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "online": "true"
+},
+{
+"name": "True Explorer Wild",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_320.webp",
+"embed": "",
+"url": "https://playtv.my.id/play/wlid.m3u8",
+"referer": "",
+        "info":"0%",
+        "online": "",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name": "True Explorer Wild",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net",
+"online": "",
+        "info":"0%",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "desktop": "true"
+},
+
+{
+"name": "Food Network",
+"image": "https://cms.dmpcdn.com/livetv/2021/10/31/bd3a2340-3a63-11ec-84ef-a5cdc7ce4314_320.png",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8",
+"referer": "https://freetvdd.com",
+        "info":"100%",
+        "online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+{
+"name": "Global Trekker",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/GlobalTrekker.png",
+"imageScale": "fitStart",
+"url": "https://playidtv.vercel.app/playlist/Global.html",
+        "info":"100%",
+        "online": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33", "embed": "true"
+},
+{
+"name": "HISTORY HD",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8",
+"online": "true",
+"referer": "https://freetvdd.com",
+        "info":"100%",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36 Edg/102.0.1245.33"
+},
+    
+	]
+    }
+	
+	<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>ผู้เฒ่าพเนจร</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="ผู้เฒ่าพเนจร"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.dropbox.com/scl/fi/vbyxgw2rrqcdme8t4ch08/.png?rlkey=y9eikxi47djf513c20eh6kjbz&dl=1"></h2>
+</center>
+</body>
+</html>
